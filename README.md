@@ -4,16 +4,16 @@
 git clone https://github.com/cezarvaz/consulta_cep.git
 ```
 
-2- Passo de entre na pasta do projeto:
-
-```
-cd test_api_httparty_cucumber/tests
-```
-
-3- Instale as dependências do projeto:
+2- Instale as dependências do projeto:
 
 ```
 bundle install
+```
+
+3- Entre na pasta de testes do projeto:
+
+```
+cd tests
 ```
 
 4- Rode o projeto:
